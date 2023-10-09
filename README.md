@@ -1,4 +1,4 @@
-# CMPG 323 Project 4 - [Your Student Number]
+# CMPG 323 Project 4 - [36564567]
 
 ## Project Overview
 Testing is a critical phase in software development, and User Acceptance Testing (UAT) is a crucial step to ensure that the solution meets the desired requirements. In this project, we aim to automate the UAT process for a web application using Robotic Process Automation (RPA) through UiPath. The project involves reading input data, automating interactions with the web application, recording results, and deploying the solution.
